@@ -1,4 +1,4 @@
 API
 ===
 
-Veja o Wiki para saber como integrar seu aplicativo com o VPSA.
+Veja o [Wiki](https://github.com/VPSA/api/wiki) para saber como integrar seu aplicativo com o VPSA.
